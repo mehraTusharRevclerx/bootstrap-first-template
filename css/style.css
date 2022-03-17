@@ -13,3 +13,15 @@ body {
 .navbar-header a:last-child {
   font-weight: 900;
 }
+
+.collapse .nav li a,
+.container .navbar-header .navbar-brand {
+  color: #fff;
+}
+
+.navbar-btn {
+  background: #fc5a41;
+  border: none;
+  color: #fff;
+  font-weight: 700;
+}
