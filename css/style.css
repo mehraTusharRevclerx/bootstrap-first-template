@@ -1,0 +1,15 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.navbar-inner {
+  background: transparent;
+  border: none;
+}
+body {
+  background: #262044;
+}
+.navbar-header a:last-child {
+  font-weight: 900;
+}
